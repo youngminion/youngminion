@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Youngmin%20Github&fontSize=40&fontAlign=80&fontAlignY=40)
+<div align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=BFE4FF&height=200&section=header&text=Youngmin%20Github&fontSize=40&fontAlign=80&fontAlignY=40&fontColor=ffffff)
 
 ### 🛠 Languages and Tools
 
@@ -17,6 +19,15 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"></t>
 <img src="https://img.shields.io/badge/Graphql-E10098?style=flat-square&logo=graphql&logoColor=white">
 
+### 🧳 I'm currently work on...
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=youngminion&show_icons=true&theme=white)<br/>
 
+### 🧳 Most used Languages...
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=youngminion&layout=compact&theme=white)
+
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=BFE4FF&height=200&section=footer)
+
+</div>
 
 
